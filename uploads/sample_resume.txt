@@ -1,0 +1,6 @@
+KANAK JAIN
+kanak.jain@example.com
+
+SKILLS: Python, SQL, Flask, Docker, HTML, CSS
+EDUCATION: B.Tech in Computer Science
+EXPERIENCE: Worked as an AI Developer and Software Engineer.

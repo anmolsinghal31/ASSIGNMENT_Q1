@@ -1,0 +1,6 @@
+ROHIT SINGH
+rohit.sharma@example.com
+
+SKILLS: Python, SQL, HTML, CSS
+EDUCATION: B.Tech in Computer Science
+EXPERIENCE: Worked as a Software Engineer and Web Developer.
